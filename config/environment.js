@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'live-ember-compiler-app',
+    modulePrefix: 'ember-template-converter',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',

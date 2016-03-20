@@ -1,4 +1,9 @@
-# Live-ember-compiler-app
+# Ember Template Converter
+
+You can see two textbox. Write handlebar template in the left box generated HTMLBar will be updated in the right box.
+
+---
+
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
